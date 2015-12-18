@@ -10,6 +10,7 @@
         "homepage": "http://www.heyulin.com",
         "role": "Engineer"
     }],
+    "minimum-stability":"dev",
     "require": {
         "php": ">=5.3.0",
         "lorenzo/cakephp-email-queue": "*",
