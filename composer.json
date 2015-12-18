@@ -1,8 +1,8 @@
 {
     "name": "yulinho/adminyii",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "description": "基于Yii 2 的管理系统，include admin panel",
+    "keywords": ["yii2", "framework", "basic", "project template" ,"admin"],
+    "homepage": "http://www.heyulin.com/",
     "type": "project",
     "license": "BSD-3-Clause",
     "authors": [{
