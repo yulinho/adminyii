@@ -1,0 +1,41 @@
+{
+	"name":             "yulinho/adminyii",
+	"description":      "another e-commerce website",
+	"keywords":         ["yulinho", "heyulin", "yulinho"],
+	"time":             "2015-12-18",
+	"license":          "MIT",
+	"authors": [
+	    {
+	        "name":         "William Ho",
+	        "email":        "4918605@qq.com",
+	        "homepage":     "http://www.heyulin.com",
+	        "role":         "Engineer"
+	    }
+	],
+    "require": {
+        "php": ">=5.3.0",
+        "lorenzo/cakephp-email-queue": "dev-master",
+        "monolog/monolog": "1.0.*",
+	    "driehle/php-crypt-md5": "2.0.*@dev",
+	    "qiniu/php-sdk": "*",
+		"swiftmailer/swiftmailer": "5.3.*@dev",
+		"phpoffice/phpexcel": "dev-master"
+    }, 
+    "require-dev": {
+		"codeception/codeception": "2.0.0 "
+	}
+    "config" : { 
+    	
+    } 
+    ,  "autoload":
+ {
+
+        "psr-0":
+ {
+
+            "Jenner\\Zebra\\MessageQueue":"src/"
+
+        }
+
+    }
+}
