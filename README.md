@@ -1,4 +1,4 @@
-Yii 2 Basic Project Template
+基于Yii 2 的管理系统，include admin panel
 ============================
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
