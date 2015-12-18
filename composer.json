@@ -13,22 +13,18 @@
     "require": {
         "php": ">=5.3.0",
         "lorenzo/cakephp-email-queue": "*",
-        "monolog/monolog": "1.0.*",
-        "driehle/php-crypt-md5": "2.0.*@dev",
+        "monolog/monolog": "*",
+        "driehle/php-crypt-md5": "*",
         "qiniu/php-sdk": "*",
-        "swiftmailer/swiftmailer": "5.3.*@dev",
-        "phpoffice/phpexcel": "dev-master"
+        "swiftmailer/swiftmailer": "*",
+        "phpoffice/phpexcel": "*"
     },
     "require-dev": {
         "codeception/codeception": "2.0.0 "
     },
     "autoload": {
-
         "psr-0": {
-
             "Jenner\\Zebra\\MessageQueue": "src/"
-
         }
-
     }
 }
