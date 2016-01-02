@@ -1,6 +1,6 @@
 {
     "name": "yulinho/adminyii",
-    "description": "基于Yii 2 的管理系统，include admin panel",
+    "description": "基于Yii 2 的管理系统，include admin panel \n composer create-project --prefer-dist --stability=dev yulinho/adminyii basic",
     "keywords": ["yii2", "framework", "basic", "project template" ,"admin"],
     "homepage": "http://www.heyulin.com/",
     "type": "project",
