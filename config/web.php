@@ -9,7 +9,7 @@ $config = [
     'components' => [
         'request' => [
             // !!! insert a secret key in the following (if it is empty) - this is required by cookie validation
-            'cookieValidationKey' => '',
+            'cookieValidationKey' => 'demobywilliam',
         ],
         'cache' => [
             'class' => 'yii\caching\FileCache',
@@ -38,6 +38,40 @@ $config = [
             ],
         ],
         'db' => require(__DIR__ . '/db.php'),
+        'urlManager'=>[
+            //'urlFormat' => 'path',
+            'showScriptName' => false,
+            'enablePrettyUrl' => true,
+            'suffix' => '.html',
+            'rules'=>[
+                '<controller:\w+>/<action:\w+>' => '<controller>/<action>',
+                '<module:\w+>/<controller:\w+>/<action:\w+>' => '<module>/<controller>/<action>'
+            ],
+        ],
+        'i18n' => [
+            'translations' => [
+                'app*' => [
+                    'class' => 'yii\i18n\PhpMessageSource',
+                    //'basePath' => '@app/messages',
+                    //'sourceLanguage' => 'en-US',
+                    'fileMap' => [
+                        'app' => 'app.php',
+                        'app/error' => 'error.php',
+                        'admin' => 'admin.php',
+                    ],
+                ],
+                'admin*' => [
+                    'class' => 'yii\i18n\PhpMessageSource',
+                    //'basePath' => '@admin/messages',
+                    //'sourceLanguage' => 'en-US',
+                    'fileMap' => [
+                        'admin' => 'admin.php',
+                        'admin/error' => 'error.php',
+                        'admin' => 'admin.php',
+                    ],
+                ],
+            ],
+        ]
         /*
         'urlManager' => [
             'enablePrettyUrl' => true,
@@ -60,6 +94,17 @@ if (YII_ENV_DEV) {
     $config['bootstrap'][] = 'gii';
     $config['modules']['gii'] = [
         'class' => 'yii\gii\Module',
+    ];
+    
+    $config['modules']['gii'] = [
+        'class' => 'yii\gii\Module',
+        'generators' => [
+            'model' => [
+            'class' => 'yii\gii\generators\model\Generator',
+            'templates' => ['model' => '@app/templates/model/default']
+            ]
+        ],
+        'allowedIPs' => ['127.0.0.1', '::1', '192.168.0.*','192.168.1.*', '116.26.254.166'] // 按需调整这里
     ];
 }
 

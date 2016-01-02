@@ -308,10 +308,18 @@
 	"buffers":
 	[
 		{
-			"file": "composer.json",
+			"file": "config/web.php",
 			"settings":
 			{
-				"buffer_size": 1881,
+				"buffer_size": 2392,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/db.php",
+			"settings":
+			{
+				"buffer_size": 182,
 				"line_ending": "Windows"
 			}
 		}
@@ -357,11 +365,16 @@
 	},
 	"expanded_folders":
 	[
-		"/E/dev/adminyii"
+		"/E/dev/adminyii",
+		"/E/dev/adminyii/config"
 	],
 	"file_history":
 	[
+		"/E/dev/adminyii/vendor/bower/typeahead.js/CONTRIBUTING.md",
+		"/E/dev/adminyii/vendor/yiisoft/yii2/base/Controller.php",
 		"/E/dev/adminyii/composer.json",
+		"/E/dev/adminyii/config/web.php",
+		"/C/Windows/System32/drivers/etc/hosts",
 		"/E/dev/adminyii/README.md",
 		"/E/OS/2.xm_mdd/mdd/www/composer.json",
 		"/E/OS/2.xm_mdd/mdd/www/config/db.php",
@@ -411,7 +424,6 @@
 		"/E/OS/2.xm_mdd/mdd/www/components/AgentWidget.php",
 		"/E/OS/2.xm_mdd/mdd/www/components/views/Agent.php",
 		"/E/OS/2.xm_mdd/mdd/www/views/layouts/admin - 副本.php",
-		"/C/Windows/System32/drivers/etc/hosts",
 		"/E/OS/2.xm_mdd/mdd/www/views/site/index3.php",
 		"/E/OS/2.xm_mdd/mdd/www/web/assets/94962913/css/bootstrap.css.map",
 		"/E/OS/2.xm_mdd/mdd/www/runtime/logs/app.log",
@@ -485,14 +497,11 @@
 		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/styles/navbar.css",
 		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/styles/tb.css",
 		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder/ckfinder.php",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder/config.js",
-		"/E/OS/2.xm_mdd/mdd/www/views/products/_form.php",
-		"/E/OS/2.xm_mdd/mdd/www/models/Products.php",
-		"/C/Users/yulin_000/Desktop/diggcn.com.conf"
+		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder/config.js"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -519,6 +528,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"url",
+			"\"",
+			"config",
 			"create-project",
 			"taobao.com",
 			"config",
@@ -643,10 +655,7 @@
 			"widget",
 			"/sites/indare/www/web",
 			"999",
-			"saoqu.net",
-			"1008",
-			"meinv360.com",
-			"diggcn.com"
+			"saoqu.net"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -671,33 +680,62 @@
 			[
 				{
 					"buffer": 0,
-					"file": "composer.json",
+					"file": "config/web.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1881,
+						"buffer_size": 2392,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1665,
+								1665
 							]
 						],
 						"settings":
 						{
 							"origin_encoding": "ASCII",
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config/db.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								103
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -751,6 +789,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"controll",
+				"vendor\\yiisoft\\yii2\\base\\Controller.php"
+			],
+			[
+				"contr",
+				"vendor\\bower\\typeahead.js\\CONTRIBUTING.md"
+			],
 			[
 				"defaultpc.css",
 				"www\\web\\themes\\default\\styles\\pc.css"
@@ -1080,10 +1126,6 @@
 				"www\\views\\devices\\_form.php"
 			],
 			[
-				"contr",
-				"www\\components\\Controller.php"
-			],
-			[
 				"adminco",
 				"www\\controllers\\AdminController.php"
 			],
@@ -1258,10 +1300,6 @@
 			[
 				"layoutadmin",
 				"views\\layouts\\admin.php"
-			],
-			[
-				"task",
-				"controllers\\TasklogsController.php"
 			]
 		],
 		"width": 0.0
