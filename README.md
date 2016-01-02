@@ -1,6 +1,9 @@
 基于Yii 2 的管理系统，include admin panel
 ============================
 
+composer create-project --prefer-dist yulinho/adminyii basic
+composer create-project --prefer-dist --stability=dev yulinho/adminyii basic
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
