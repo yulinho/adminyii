@@ -308,19 +308,12 @@
 	"buffers":
 	[
 		{
-			"file": "config/web.php",
+			"file": "/C/Users/yulin_000/Documents/tmp",
 			"settings":
 			{
-				"buffer_size": 2392,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "config/db.php",
-			"settings":
-			{
-				"buffer_size": 182,
-				"line_ending": "Windows"
+				"buffer_size": 74,
+				"line_ending": "Windows",
+				"name": "链接：http://app.shafa.com/apk/shuajijinglingTVban.ht"
 			}
 		}
 	],
@@ -365,15 +358,37 @@
 	},
 	"expanded_folders":
 	[
-		"/E/dev/adminyii",
-		"/E/dev/adminyii/config"
+		"/E/dev/adminyii"
 	],
 	"file_history":
 	[
+		"/E/indare/anson-leef/imass/config/web.php",
+		"/E/dev/adminyii/.gitignore",
+		"/E/dev/adminyii/controllers/ConfigsController.php",
+		"/E/dev/adminyii/vendor/yiisoft/yii2-composer/Installer.php",
+		"/E/dev/adminyii/messages/zh-CN/admin.php",
+		"/E/dev/adminyii/views/layouts/admin.php",
+		"/E/dev/adminyii/models/Configs.php",
+		"/E/dev/adminyii/sql/configs.sql",
+		"/E/dev/adminyii/config/web.php",
+		"/E/dev/adminyii/templates/model/default/model.php",
+		"/E/dev/adminyii/controllers/AdminController.php",
+		"/E/dev/adminyii/vendor/yiisoft/yii2-gii/generators/model/default/model.php",
+		"/E/dev/adminyii/vendor/yiisoft/yii2-gii/generators/model/default/query.php",
+		"/E/dev/adminyii/config/db.php",
+		"/E/dev/adminyii/config/console.php",
+		"/E/dev/adminyii/vendor/yiisoft/yii2-gii/Generator.php",
+		"/E/dev/adminyii/vendor/yiisoft/yii2-gii/Module.php",
+		"/E/dev/adminyii/config/params.php",
+		"/E/dev/adminyii/templates/model.php",
+		"/E/dev/adminyii/views/layouts/main.php",
+		"/E/dev/adminyii/web/css/admin.css",
+		"/E/dev/adminyii/views/admin/login.php",
+		"/E/dev/adminyii/views/admin/logout.php",
+		"/E/dev/adminyii/views/admin/index.php",
 		"/E/dev/adminyii/vendor/bower/typeahead.js/CONTRIBUTING.md",
 		"/E/dev/adminyii/vendor/yiisoft/yii2/base/Controller.php",
 		"/E/dev/adminyii/composer.json",
-		"/E/dev/adminyii/config/web.php",
 		"/C/Windows/System32/drivers/etc/hosts",
 		"/E/dev/adminyii/README.md",
 		"/E/OS/2.xm_mdd/mdd/www/composer.json",
@@ -474,30 +489,7 @@
 		"/E/OS/2.xm_mdd/mdd/www/web/assets/553575c/css/bootstrap.css.map",
 		"/E/OS/2.xm_mdd/mdd/www/web/assets/6424d82b/main.css",
 		"/E/OS/2.xm_mdd/mdd/www/web/assets/6a9304d/main.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/722c086b/css/bootstrap.css.map",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/8222d2ae/main.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/851cf96/css/bootstrap.css.map",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/b9410562/css/bootstrap.css.map",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/fa4b2c36/main.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckeditor/samples/old/magicline/magicline.html",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder3/core/connector/php/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder3/core/connector/php/vendor/monolog/monolog/src/Monolog/Handler/HipChatHandler.php",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder3/libs/caman.js",
-		"/E/OS/2.xm_mdd/mdd/www/web/img/2.JPG",
-		"/E/OS/2.xm_mdd/mdd/www/web/img/4.JPG",
-		"/E/OS/2.xm_mdd/mdd/www/web/img/raw/2.JPG",
-		"/E/OS/2.xm_mdd/mdd/www/web/img/raw/4.JPG",
-		"/E/OS/2.xm_mdd/mdd/www/web/site/index3/main.20150702-0601.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/test/test_files/main.20150702-0601.js",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/js/highcharts/highcharts.src.js",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/js/highcharts/modules/canvas-tools.js",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/js/highcharts/modules/canvas-tools.src.js",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/styles/master.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/styles/master.min.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/styles/navbar.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/themes/default/styles/tb.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder/ckfinder.php",
-		"/E/OS/2.xm_mdd/mdd/www/web/ckfinder/config.js"
+		"/E/OS/2.xm_mdd/mdd/www/web/assets/722c086b/css/bootstrap.css.map"
 	],
 	"find":
 	{
@@ -508,6 +500,8 @@
 		"height": 117.0,
 		"where_history":
 		[
+			"E:\\dev\\adminyii",
+			"E:\\dev\\adminyii\\vendor\\yiisoft\\yii2-gii",
 			"E:\\OS\\2.xm_mdd\\mdd",
 			"E:\\OS\\2.xm_mdd\\mdd\\www\\web\\css",
 			"E:\\OS\\2.xm_mdd\\mdd\\www\\views",
@@ -528,6 +522,22 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"generateCookieValidationKey",
+			"postCreateProject",
+			"created",
+			"ppts",
+			"/",
+			"crud",
+			"templ",
+			"template",
+			"allowedIPs",
+			"templates",
+			"tem",
+			"mysite",
+			"root",
+			"yii2basic",
+			"indare",
+			"com",
 			"url",
 			"\"",
 			"config",
@@ -639,23 +649,7 @@
 			"Navbar",
 			"top_section",
 			"setTopSection",
-			"agent",
-			"pc.css",
-			"background",
-			"color",
-			"屏",
-			"第一屏",
-			"iframe",
-			"屏",
-			"第一",
-			"CONTACT",
-			"h1",
-			"mdd",
-			"green",
-			"widget",
-			"/sites/indare/www/web",
-			"999",
-			"saoqu.net"
+			"agent"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -680,62 +674,31 @@
 			[
 				{
 					"buffer": 0,
-					"file": "config/web.php",
+					"file": "/C/Users/yulin_000/Documents/tmp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2392,
+						"buffer_size": 74,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1665,
-								1665
+								61,
+								74
 							]
 						],
 						"settings":
 						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 317.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "config/db.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 182,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								94,
-								103
-							]
-						],
-						"settings":
-						{
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"auto_name": "链接：http://app.shafa.com/apk/shuajijinglingTVban.ht",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -789,6 +752,62 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"configscon",
+				"controllers\\ConfigsController.php"
+			],
+			[
+				"confi",
+				"controllers\\ConfigsController.php"
+			],
+			[
+				"configs",
+				"models\\Configs.php"
+			],
+			[
+				"admin.php",
+				"views\\layouts\\admin.php"
+			],
+			[
+				"configc",
+				"controllers\\ConfigsController.php"
+			],
+			[
+				"admincon",
+				"controllers\\AdminController.php"
+			],
+			[
+				"mode",
+				"vendor\\yiisoft\\yii2-gii\\generators\\model\\default\\model.php"
+			],
+			[
+				"web.php",
+				"config\\web.php"
+			],
+			[
+				"model",
+				"vendor\\yiisoft\\yii2-gii\\generators\\model\\default\\model.php"
+			],
+			[
+				"cons",
+				"config\\console.php"
+			],
+			[
+				"admin",
+				"views\\layouts\\admin.php"
+			],
+			[
+				"admin.css",
+				"web\\css\\admin.css"
+			],
+			[
+				"main.p",
+				"views\\layouts\\main.php"
+			],
+			[
+				"adminc",
+				"controllers\\AdminController.php"
+			],
 			[
 				"controll",
 				"vendor\\yiisoft\\yii2\\base\\Controller.php"
@@ -954,10 +973,6 @@
 				"www\\models\\Devices.php"
 			],
 			[
-				"admin.php",
-				"www\\views\\layouts\\admin.php"
-			],
-			[
 				"",
 				"www\\views\\site\\test2.php"
 			],
@@ -1110,10 +1125,6 @@
 				"www\\views\\categories\\index.php"
 			],
 			[
-				"adminc",
-				"www\\controllers\\AdminController.php"
-			],
-			[
 				"widget",
 				"www\\components\\NavbarWidget.php"
 			],
@@ -1252,54 +1263,6 @@
 			[
 				"apico",
 				"components\\ApiController.php"
-			],
-			[
-				"con",
-				"components\\Controller.php"
-			],
-			[
-				"hotwi",
-				"components\\views\\HotWidgetV.php"
-			],
-			[
-				"pc.",
-				"views\\layouts\\pc.php"
-			],
-			[
-				"siteview",
-				"views\\site\\view.php"
-			],
-			[
-				"ibs",
-				"models\\Ibs.php"
-			],
-			[
-				"sync",
-				"commands\\SyncController.php"
-			],
-			[
-				"error",
-				"views\\site\\error.php"
-			],
-			[
-				"linkpa",
-				"components\\LinkPager.php"
-			],
-			[
-				"createph",
-				"views\\feedbacks\\create1.php"
-			],
-			[
-				"create1",
-				"views\\feedbacks\\create1.php"
-			],
-			[
-				"feedback",
-				"controllers\\FeedbacksController.php"
-			],
-			[
-				"layoutadmin",
-				"views\\layouts\\admin.php"
 			]
 		],
 		"width": 0.0
