@@ -307,15 +307,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/yulin_000/Documents/tmp",
-			"settings":
-			{
-				"buffer_size": 74,
-				"line_ending": "Windows",
-				"name": "链接：http://app.shafa.com/apk/shuajijinglingTVban.ht"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -362,6 +353,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/yulin_000/Documents/tmp",
+		"/C/Users/yulin_000/Desktop/tvapps/121606tthh9oghvg9vmht9 - 副本/福利节目源.txt",
+		"/C/Users/yulin_000/Desktop/tvapps/121606tthh9oghvg9vmht9 - 副本/亚洲直播源.txt",
 		"/E/indare/anson-leef/imass/config/web.php",
 		"/E/dev/adminyii/.gitignore",
 		"/E/dev/adminyii/controllers/ConfigsController.php",
@@ -486,10 +480,7 @@
 		"/E/OS/2.xm_mdd/mdd/www/vendor/yiisoft/yii2/console/controllers/MigrateController.php",
 		"/E/OS/2.xm_mdd/mdd/www/vendor/yiisoft/yii2/helpers/BaseConsole.php",
 		"/E/OS/2.xm_mdd/mdd/www/vendor/yiisoft/yii2/helpers/BaseFormatConverter.php",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/553575c/css/bootstrap.css.map",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/6424d82b/main.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/6a9304d/main.css",
-		"/E/OS/2.xm_mdd/mdd/www/web/assets/722c086b/css/bootstrap.css.map"
+		"/E/OS/2.xm_mdd/mdd/www/web/assets/553575c/css/bootstrap.css.map"
 	],
 	"find":
 	{
@@ -522,6 +513,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",http",
+			",",
 			"generateCookieValidationKey",
 			"postCreateProject",
 			"created",
@@ -647,9 +640,7 @@
 			"Navbar",
 			"navbar",
 			"Navbar",
-			"top_section",
-			"setTopSection",
-			"agent"
+			"top_section"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -669,38 +660,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/yulin_000/Documents/tmp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 74,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								61,
-								74
-							]
-						],
-						"settings":
-						{
-							"auto_name": "链接：http://app.shafa.com/apk/shuajijinglingTVban.ht",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
